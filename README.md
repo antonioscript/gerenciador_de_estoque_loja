@@ -16,7 +16,7 @@
 ![image](https://user-images.githubusercontent.com/10932478/170831327-e012b7ab-fd1d-4b2f-adcc-d26f4b2f486e.png)
 
 # Objetivo do Projeto
-- Criar um gerenciamento simples, rápido e funcional que permitindo o usuário fazer a gestão de estoque de produtos, podendo adicionar produtos, remover produotos e visualizar todos os produtos cadastrados
+Criar um gerenciamento simples, rápido e funcional que possibilita ao usuário fazer a gestão de estoque de produtos, podendo adicionar produtos, remover produtos e visualizar todos os produtos cadastrados
 
 # Tencnologias Utilizadas no Projeto
 - Linguagem Python
