@@ -3,9 +3,9 @@ import PySimpleGUI as sg
 
 mydb = mysql.connector.connect (
 	host = "localhost", 
-	user = "root",
-	password = "1915691",
-	database = "loja_sollaris2"
+	user = "seu_usuario",
+	password = "sua_senha",
+	database = "seu_banco"
 )
 
 #=================================================================
@@ -36,7 +36,7 @@ def inicial():
 	elif event == "Entrar":
 		usuario = values['-USUARIO-']
 		senha = values['-SENHA-']
-		if usuario == "root" and senha == "1915691":
+		if usuario == "seu_usuario" and senha == "sua_senha":
 			window.close()
 			front()
 		else:
@@ -117,8 +117,6 @@ def pagina_cadastro():
 		elif event == 'Voltar':
 			window.close()
 			front()
-
-
 #====================Página de Remoção===========================
 def pagina_remover():
 	
@@ -153,8 +151,6 @@ def pagina_remover():
 		elif event == 'Voltar':
 			window.close()
 			front()
-
-
 #================Página de Visualização===========================
 def pagina_visualizar():
 	layout = [
