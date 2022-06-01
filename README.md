@@ -1,6 +1,9 @@
 # gerenciador_de_estoque_loja
  Trata-se de um software de gestão de produtos, permitindo o usuário inserir, deletar e visualizar os produtos do estoque. No exemplo abaixo, o programa é utilizado para uma loja de roupas
  
+ ## Demonstração em Vídeo (clique no botão abaixo para visualizar)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/watch?v=ehcemWT8VCU)
+
  # Overview
 ![image](https://user-images.githubusercontent.com/10932478/170830913-1201657d-5622-46f0-a30a-f62bfbd066ab.png)
 
